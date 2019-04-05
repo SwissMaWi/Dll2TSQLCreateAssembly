@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28721.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dll2TSQLCreateAssembly", "Dll2TSQLCreateAssembly\Dll2TSQLCreateAssembly.csproj", "{1F4129CC-3C43-410C-9E5A-7F5F984C63D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F4129CC-3C43-410C-9E5A-7F5F984C63D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4129CC-3C43-410C-9E5A-7F5F984C63D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4129CC-3C43-410C-9E5A-7F5F984C63D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4129CC-3C43-410C-9E5A-7F5F984C63D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BC5DA33-9054-4C2B-A6F2-E77912733FE8}
+	EndGlobalSection
+EndGlobal
